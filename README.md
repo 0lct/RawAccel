@@ -7,7 +7,7 @@ download by following the first link, RawAccel_XXX.zip, in the Assets listed bel
 extract contents (right-click zip -> Extract All...)
 follow the installation guide
 
-#TR
+# TR
 
 rawaccel valorant cs oynaran kardeşlerim daha hızlı flick dönüş sağlamak için geliştirilen bir kod kaynadığır
 geliştiricisi ben değilim dosya alıntıdır
